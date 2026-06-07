@@ -1,6 +1,6 @@
-#Hi, I'm Charan Sai Reddy 👋
+## Hi, I'm Charan Sai Reddy 👋
 
-#About Me
+## About Me
 
 🎓 B.Tech Student
 
@@ -8,7 +8,7 @@
    
 🚀 Preparing for placements and building real-world projects
 
-#Technical Skills
+## Technical Skills
 
 - Python
 - Raspberry Pi
@@ -17,7 +17,7 @@
 - Computer Vision
 - Surveillance Monitoring Systems
 
-#Major Project
+## Major Project
 
 Smart Surveillance Monitoring System using IoT and YOLO
 
@@ -40,7 +40,7 @@ Features
 - Automated surveillance alerts
 - Smart security monitoring
 
-#Current Goals
+## Current Goals
 
 - Improve Python programming skills
 - Learn Machine Learning concepts
